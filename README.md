@@ -19,7 +19,6 @@ Add a new scriptable widget to your home screen
 Go to the edit widget menu by holding on your widget and choose the "Try Something New!" Script
 
 # Alternate setup guide
-Method 2:
 - Step 1:
 Go into TrySomethingNew.js and copy all the text from in there
 
