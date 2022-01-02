@@ -11,6 +11,7 @@ Download the latest release of the widget from this repository on to your phone 
 
 - Step 2:
 Hit the share icon, and select scriptable from in there, this will allow you to add the script to your scriptable app
+(This step can sometimes cause issues if your default browser is not set to safari, so make sure you do it through there!)
 
 - Step 3:
 Add a new scriptable widget to your home screen
