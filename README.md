@@ -2,7 +2,8 @@
 A script for the iOS app called "Scriptable" prompting you with new ideas for things to try daily!
 (Beware that the small widget doesn't often work too well with this if the text for the idea is long, i recommend the medium one!)
 
-This script is built off of the API that @telepathics has running on her webpage, and was kind enough to let me make this!
+This script is built off of the API that telepathics has running on her webpage, and was kind enough to let me make this! Make sure to follow her:
+https://github.com/telepathics
 
 The only things you'll need to run this is an iPhone running iOS 14 or higher, and the app called Scriptable on the app store!
 There are two ways of setting up this widget, first one is through the releases, and the second one (described later) is by manually importing the source code to Scriptable
