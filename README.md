@@ -1,3 +1,5 @@
+## Telepathics / Path has unfortunately closed the endpoint for this making it deprecated, but i'll leave this repo up in case anyone wants to learn scriptable!
+
 # TrySomethingNewWidget
 A script for the iOS app called "Scriptable" prompting you with new ideas for things to try daily!
 (Beware that the small widget doesn't often work too well with this if the text for the idea is long, i recommend the medium one!)
