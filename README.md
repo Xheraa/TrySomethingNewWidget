@@ -11,10 +11,8 @@ The only things you'll need to run this is an iPhone running iOS 14 or higher, a
 There are two ways of setting up this widget, first one is through the releases, and the second one (described later) is by manually importing the source code to Scriptable
 
 # Examples
-<p align="center">
-  <img src="https://i.ibb.co/gZDdK8xx/281161457-736157247812722-3123237868990308660-n.jpg" width="350" title="Example 1">
-  <img src="https://i.ibb.co/Xf22ktw8/280956961-2854857281486066-6573498554677231611-n.jpg" width="350" alt="Example 2">
-</p>
+![screenshot](Examples/280956961_2854857281486066_6573498554677231611_n.jpg)
+![screenshot](Examples/281161457_736157247812722_3123237868990308660_n.jpg)
 
 # Setup guide
 - Step 1:
