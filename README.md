@@ -10,6 +10,10 @@ https://github.com/telepathics
 The only things you'll need to run this is an iPhone running iOS 14 or higher, and the app called Scriptable on the app store!
 There are two ways of setting up this widget, first one is through the releases, and the second one (described later) is by manually importing the source code to Scriptable
 
+# Examples
+![screenshot](https://i.ibb.co/gZDdK8xx/281161457-736157247812722-3123237868990308660-n.jpg)
+![screenshot](https://i.ibb.co/Xf22ktw8/280956961-2854857281486066-6573498554677231611-n.jpg)
+
 # Setup guide
 - Step 1:
 Download the latest release of the widget from this repository on to your phone (Usually done by opening the file on a new page)
